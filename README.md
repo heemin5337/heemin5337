@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @heemin5337 18 age in highschool student
+- 👋 Hi, I'm @heemin5337 18 age in Korea highschool student
 - 👀 I'm interested in all computer languages.
 - 📒 I study 1-2 hours a day.
 - 🌱 I'm learning Python.
